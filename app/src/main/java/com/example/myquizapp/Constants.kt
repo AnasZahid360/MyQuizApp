@@ -94,7 +94,7 @@ object Constants {
 
             9, "What Country Does This Flag Belongs To?",
             R.drawable.ic_flag_of_new_zealand,
-            "New Zealand","Jordan","Sudan","Palestine",4
+            "New Zealand","Jordan","Sudan","Palestine",1
         )
         questionsList.add(que9)
 
