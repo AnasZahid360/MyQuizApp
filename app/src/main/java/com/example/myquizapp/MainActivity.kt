@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
+
         val btnStart : Button = findViewById(R.id.btn_start)
         val etName : EditText = findViewById(R.id.et_name)
         btnStart.setOnClickListener {
